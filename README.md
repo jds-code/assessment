@@ -14,12 +14,12 @@ API methods:
   - /users/policies=id=<USER_ID>&policy=<POLICY_ID> : Retrieves the client of a policy
 
 For example:
-http://localhost:8080
-http://localhost:8080/users
-http://localhost:8080/users/id/a0ece5db-cd14-4f21-812f-966633e7be86
-http://localhost:8080/users/name/Adele
-http://localhost:8080/policies?id=a0ece5db-cd14-4f21-812f-966633e7be86&client=Manning
-http://localhost:8080/policies?id=a0ece5db-cd14-4f21-812f-966633e7be86&policy=64cceef9-3a01-49ae-a23b-3761b604800b
+  - http://localhost:8080
+  - http://localhost:8080/users
+  - http://localhost:8080/users/id/a0ece5db-cd14-4f21-812f-966633e7be86
+  - http://localhost:8080/users/name/Adele
+  - http://localhost:8080/policies?id=a0ece5db-cd14-4f21-812f-966633e7be86&client=Manning
+  - http://localhost:8080/policies?id=a0ece5db-cd14-4f21-812f-966633e7be86&policy=64cceef9-3a01-49ae-a23b-3761b604800b
 
 
 ### Installation
